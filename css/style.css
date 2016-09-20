@@ -381,6 +381,11 @@ img.img-pac{
   left: 20%;
 }
 
+img.logo {
+  position: relative;
+  width: 10%;
+}
+
 #fh5co-home {
   
   position: relative;
